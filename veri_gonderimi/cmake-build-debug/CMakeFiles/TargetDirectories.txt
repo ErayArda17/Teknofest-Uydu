@@ -1,0 +1,3 @@
+/Users/emreagri1/CLionProjects/veri_gonderimi/cmake-build-debug/CMakeFiles/veri_gonderimi.dir
+/Users/emreagri1/CLionProjects/veri_gonderimi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emreagri1/CLionProjects/veri_gonderimi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
